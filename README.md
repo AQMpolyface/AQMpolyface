@@ -9,10 +9,11 @@ Welcome to my GitHub profile! I'm passionate about technology and eager to learn
 ## 🌱 Currently Learning
 - JavaScript
 - Go
--zig
--c
--Odin
--reverse engineering
+- zig
+- c
+- gleam
+- odin
+- reverse engineering
 
 ## ⚡ About Me
 - I am 17 years old.
