@@ -9,10 +9,8 @@ Welcome to my GitHub profile! I'm passionate about technology and eager to learn
 ## 🌱 Currently Learning
 - JavaScript
 - Go
-- zig
+- haskell
 - c
-- gleam
-- odin
 - reverse engineering
 
 ## ⚡ About Me
