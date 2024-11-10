@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about technology and eager to learn
 - JavaScript
 - Go
 - haskell
-- c
+- rust
 - reverse engineering
 
 ## ⚡ About Me
