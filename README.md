@@ -4,11 +4,13 @@
 - Cybersecurity
 - Programming
 
-##  Currently Learning
-- Go
-- c++
-- rust
-- reverse engineering
+##  Languages to learn more/discover in 2025:
+- Rust
+- Haskell
+- Gleam
+- Scala
+- haxe
+
 
 ##  About Me
 - I am 17 years old.
