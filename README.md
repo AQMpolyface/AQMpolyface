@@ -10,12 +10,14 @@
 - Gleam
 - Scala
 - haxe
-
+-Odin
+-Perl
 ##  Languages i am confortable with
 - Rust
 - Go
 - Python
 - Javascript
+- 
 ##  About Me
 - I am 17 years old.
 - I speak English, French, and Italian.
