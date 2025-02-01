@@ -7,6 +7,7 @@
 ##  Languages to learn more/discover in 2025:
 - Rust
 - Haskell
+- V
 - Gleam
 - Scala
 - haxe
@@ -17,7 +18,7 @@
 - Go
 - Python
 - Javascript
-- 
+
 ##  About Me
 - I am 17 years old.
 - I speak English, French, and Italian.
@@ -25,9 +26,6 @@
 
 ##  Get in Touch
 - email: polyface@proton.me
-
-##  Fun Fact
-I love exploring new technologies and finding innovative solutions to problems. Always up for a challenge!
 
 ---
 <!---
