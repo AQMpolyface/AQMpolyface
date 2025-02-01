@@ -11,8 +11,8 @@
 - Gleam
 - Scala
 - haxe
--Odin
--Perl
+- Odin
+- Perl
 ##  Languages i am confortable with
 - Rust
 - Go
