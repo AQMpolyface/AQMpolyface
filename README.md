@@ -4,15 +4,16 @@
 - Cybersecurity
 - Programming
 
-##  Languages to learn more/discover in 2025:
+##  Things i like.
 - Rust
-- Haskell
 - V
-- Gleam
-- Scala
-- haxe
-- Odin
 - Perl
+- htmx
+## things i dont like:
+- frontend
+- npm & cargo
+- rust compile time
+  
 ##  Languages i am confortable with
 - Rust
 - Go
