@@ -1,3 +1,6 @@
+
+
+
 # Hi, I’m [AQMpolyface](https://github.com/AQMpolyface)
 
 ##  Interests
@@ -9,14 +12,15 @@
 - V
 - Perl
 - htmx
+
 ## things i dont like:
 - frontend
 - npm & cargo
 - rust compile time
   
 ##  Languages i am confortable with
-- Rust
-- Go
+- Rust 
+- Go 
 - Python
 - Javascript
 
