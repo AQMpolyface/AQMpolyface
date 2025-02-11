@@ -17,6 +17,7 @@
 - frontend
 - npm & cargo
 - rust compile time
+- python
   
 ##  Languages i am confortable with
 - Rust 
