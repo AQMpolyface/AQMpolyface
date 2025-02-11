@@ -8,13 +8,16 @@
 - Programming
 
 ##  Things i like.
-- Rust
-- V
+- blazingly fast language, like:
+  - Rust
+  - V
+  
 - Perl
 - htmx
 
+
 ## things i dont like:
-- frontend
+- doing frontend
 - npm & cargo
 - rust compile time
 - python
