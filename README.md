@@ -18,8 +18,8 @@
 
 ## things i dont like:
 - doing frontend
-- npm & cargo
-- rust compile time
+- npm & cargo (package manager)
+- rust compilation time
 - python
   
 ##  Languages i am confortable with
