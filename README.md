@@ -38,7 +38,4 @@
 <a href="mailto:polyface@proton.me">
   <img alt="Email: polyface@proton.me" title="Email: polyface@proton.me" src="https://img.shields.io/badge/email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
 </a>
-<a href="https://bsky.app/profile/polyface.bsky.social">
-  <img alt="Bluesky: polyface.bsky.social" title="Bluesky: polyface.bsky.socialm" src="https://img.shields.io/badge/Bluesky-%230285FF?style=for-the-badge&logo=Bluesky&logoColor=white">
-</a>
 
