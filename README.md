@@ -32,7 +32,7 @@
 - I am from Switzerland.
 
 ## Currently listening to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9f4le5gzi4p8l96rzmi3vl7lh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9141ac&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9f4le5gzi4p8l96rzmi3vl7lh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9141ac&bar_color_cover=false)
 
 ##  Get in Touch
 <a href="mailto:polyface@proton.me">
