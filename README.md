@@ -30,7 +30,11 @@
 - I am 17 years old.
 - I speak English, French, and Italian.
 - I am from Switzerland.
-
+<pre>
+  /\_/\
+(˶ᵔ ᵕ ᵔ˶)
+/ >🌷<\~⁠♡
+</pre>
 ## Currently listening to:
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9f4le5gzi4p8l96rzmi3vl7lh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9141ac&bar_color_cover=false)
 
