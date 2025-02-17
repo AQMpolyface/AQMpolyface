@@ -26,10 +26,6 @@
 - Python
 - Javascript
 
-##  About Me
-- I am 17 years old.
-- I speak English, French, and Italian.
-- I am from Switzerland.
 <pre>
   /\_/\
 (˶ᵔ ᵕ ᵔ˶)
